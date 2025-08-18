@@ -1,5 +1,7 @@
 # Vamos!
 
+<img width="400" height="118" alt="Image" src="https://github.com/user-attachments/assets/d3f35aa4-e851-43d3-982a-88ed3b75311a" />
+
 ## 概要
 株式会社ラクス開催の3daysインターンで**Vamos**を作成しました！<br>
 このアプリは、**試合もチームも楽々に管理できる**チャットアプリです！
@@ -16,6 +18,14 @@
 
 
 ## 画面
+
+**ログイン画面**  
+<br>
+<img width="700" height="482" alt="Image" src="https://github.com/user-attachments/assets/cd5a6cb6-b6b6-4818-83fa-5aa983f42441" />
+
+**チャット画面**
+<br>
+<img width="1910" height="1030" alt="Image" src="https://github.com/user-attachments/assets/5ec2eb7d-63b8-440a-8d87-3371a6d91bab" />
 
 ## 使用技術
 - HTML & CSS
