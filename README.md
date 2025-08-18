@@ -15,7 +15,7 @@
 - 自分に関係ないメッセージが多い
 
 #### 悩み解消方針
-
+<img width="1342" height="680" alt="Image" src="https://github.com/user-attachments/assets/d3c78f0f-3819-47bf-b0e2-fba44975ed52" />
 
 ## 画面
 
